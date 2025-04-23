@@ -1,0 +1,28 @@
+Source,Target,Weight
+Ted,Robin,25
+Ted,Barney,30
+Ted,Marshall,28
+Ted,Lily,26
+Robin,Barney,22
+Robin,Marshall,10
+Robin,Lily,12
+Barney,Marshall,14
+Barney,Lily,13
+Marshall,Lily,35
+Ted,Stella,6
+Ted,Victoria,7
+Ted,Tracy,9
+Robin,Tracy,3
+Barney,Nora,5
+Barney,Quinn,5
+Barney,Robin,18
+Lily,Tracy,3
+Marshall,Tracy,2
+Robin,Kevin,4
+Ted,Zoey,5
+Robin,Victoria,2
+Barney,James,4
+Lily,Ranjit,3
+Ted,Ranjit,5
+Robin,Sandy Rivers,3
+Ted,The Captain,4
